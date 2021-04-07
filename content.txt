@@ -1,1 +1,2 @@
 some text in clear-branch
+some text in cherry-branch
